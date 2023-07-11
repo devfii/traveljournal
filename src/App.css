@@ -1,0 +1,21 @@
+body {
+  font-family: Inter, sans-serif;
+}
+header {
+  height: 55px;
+  background: #F55A5A;
+  display: flex;
+
+}
+
+nav > h4 {
+  width: 109px;
+  height: 16px;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 14.461px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -1.085px;
+}
