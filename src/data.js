@@ -31,5 +31,3 @@ const travels = [
     },
 ];
 export default travels;
-
- Australia  Norway 
